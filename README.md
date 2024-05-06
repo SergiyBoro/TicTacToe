@@ -1,0 +1,1 @@
+Šis esamas variantas buvo rastas interneto platybėse. Buvo ir kitų, bet šitas sužavėjo savo paprastumu. Prieš tai bandžiau daryti savo variantą, bet kodas neveikė.
